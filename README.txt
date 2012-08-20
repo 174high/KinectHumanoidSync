@@ -1,0 +1,1 @@
+Open the soluton in Visual Studio and run it. Make sure you have a Kinect connected, and edit the IP address and PORT of the robot you want to connect to in the corresponding variables in the top section of the main file

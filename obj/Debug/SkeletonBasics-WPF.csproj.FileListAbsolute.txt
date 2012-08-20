@@ -1,0 +1,30 @@
+C:\Users\max\Documents\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\max\Documents\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\max\Documents\SkeletonBasics-WPF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\max\Documents\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\max\Documents\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\max\Documents\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\max\Documents\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\max\Documents\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\max\Documents\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\max\Documents\SkeletonBasics-WPF\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\max\Documents\SkeletonBasics-WPF\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\max\Documents\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\max\Documents\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\max\Documents\SkeletonBasics-WPF\bin\Debug\Kinect.Toolbox.dll
+C:\Users\max\Documents\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\max\Documents\SkeletonBasics-WPF - Directcontrol\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\max\Documents\SkeletonBasics-WPF - Directcontrol\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\max\Documents\SkeletonBasics-WPF - Directcontrol\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\max\Documents\SkeletonBasics-WPF - Directcontrol\obj\Debug\MainWindow.baml
+C:\Users\max\Documents\SkeletonBasics-WPF - Directcontrol\obj\Debug\MainWindow.g.cs
+C:\Users\max\Documents\SkeletonBasics-WPF - Directcontrol\obj\Debug\App.g.cs
+C:\Users\max\Documents\SkeletonBasics-WPF - Directcontrol\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\max\Documents\SkeletonBasics-WPF - Directcontrol\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\max\Documents\SkeletonBasics-WPF - Directcontrol\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\max\Documents\SkeletonBasics-WPF - Directcontrol\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\max\Documents\SkeletonBasics-WPF - Directcontrol\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\max\Documents\SkeletonBasics-WPF - Directcontrol\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\max\Documents\SkeletonBasics-WPF - Directcontrol\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\max\Documents\SkeletonBasics-WPF - Directcontrol\bin\Debug\Kinect.Toolbox.dll
+C:\Users\max\Documents\SkeletonBasics-WPF - Directcontrol\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
